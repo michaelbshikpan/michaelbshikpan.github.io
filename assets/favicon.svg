@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="MBS favicon">
+  <rect width="128" height="128" rx="32" fill="#315b7d"/>
+  <circle cx="98" cy="30" r="18" fill="#aa7a24" opacity="0.9"/>
+  <text x="64" y="78" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="white">MBS</text>
+</svg>
