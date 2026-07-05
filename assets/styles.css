@@ -354,3 +354,21 @@ h3 { font-size: 1.1rem; }
   .cv-frame { height: 560px; }
   .portrait-placeholder { height: 180px; }
 }
+
+.profile-photo {
+  width: 100%;
+  max-width: 420px;
+  height: 330px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 18px;
+  margin: 0 auto 1.2rem auto;
+  display: block;
+}
+
+@media (max-width: 700px) {
+  .profile-photo {
+    height: 280px;
+    max-width: 100%;
+  }
+}
